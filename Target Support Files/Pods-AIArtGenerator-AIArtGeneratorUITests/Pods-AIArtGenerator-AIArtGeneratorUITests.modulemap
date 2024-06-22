@@ -1,0 +1,6 @@
+framework module Pods_AIArtGenerator_AIArtGeneratorUITests {
+  umbrella header "Pods-AIArtGenerator-AIArtGeneratorUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
